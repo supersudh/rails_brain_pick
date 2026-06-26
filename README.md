@@ -22,7 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-1. Display 'Hello World' in the browser.
-2. Formalize using Rails conventions.
-3. Review MVC diagram for information flow.
